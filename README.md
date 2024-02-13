@@ -1,6 +1,3 @@
-README file for your SAI (Supreme Artificial Intelligence) project:
-
----
 
 # SAI (Supreme Artificial Intelligence)
 
