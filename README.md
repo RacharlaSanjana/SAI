@@ -32,7 +32,7 @@ SAI is an AI assistant capable of performing various tasks using voice commands.
 3. Run the main script:
 
    ```
-   python main.py
+   python main2.py
    ```
 
 4. Start interacting with SAI by speaking commands.
