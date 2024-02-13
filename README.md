@@ -1,4 +1,4 @@
-Here's a sample README file for your SAI (Supreme Artificial Intelligence) project:
+README file for your SAI (Supreme Artificial Intelligence) project:
 
 ---
 
